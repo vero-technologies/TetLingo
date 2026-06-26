@@ -1,0 +1,6 @@
+{
+  "name": "TetLingo",
+  "description": "An offline English to Tetun sentence-based translation app and dictionary with local synchronization, rule-based linguistic processing, and a beautiful pink and white theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
