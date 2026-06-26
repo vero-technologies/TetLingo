@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TetLingo</string>
+    <string name="title_activity_main">TetLingo</string>
+    <string name="package_name">com.vero.technologies.tetlingo</string>
+    <string name="custom_url_scheme">com.vero.technologies.tetlingo</string>
+</resources>
